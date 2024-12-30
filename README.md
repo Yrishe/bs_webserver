@@ -1,2 +1,2 @@
 # bs_webserver
-Template web using express
+Template web server using express
